@@ -16,4 +16,5 @@ Follow the instructions and enter the arguments.
 
 ## Platform Support
 Supports macOS and Linux.
+
 Fk Windows.
